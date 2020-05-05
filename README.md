@@ -8,12 +8,5 @@ Inspired by a friend's need to have an easy way for their students to schedule t
 
 When hosted on a server, users can navigate to the site, register, and schedule meetings.
 
-TODO:
-  Optional user whitelist or registration-by-link-invite
-  Automated emails
-    Email Validation
-    Schedule confirmations
-    Meeting reminders
-    Auto-reminders to schedule meetings
- (Maybe) Incorporate better HTML/CSS
-  
+
+Work-in-progress  
