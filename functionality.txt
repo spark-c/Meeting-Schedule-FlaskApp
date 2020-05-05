@@ -1,0 +1,27 @@
+
+
+
+Info req from students:
+	username
+		3-15 char, alphanum allowed
+	firstname
+	lastname
+	email
+		email verification
+	password
+		8-16 char, alpha and num
+	
+functionality:
+
+-require complete profiles from users
+-user's first/lastname must be on the whitelist of expected users
+
+-display available time ranges
+	if available time block < x minutes, cut it
+-allow students to book time ranges
+	show them their booked ranges on their profile page
+-allow students to unbook time ranges
+-email confirmations for book and unbook
+-flash login, logout messages
+-ability for admin to flash messages to all users "X new messages on message page!"
+	Flag for whether or not they've visited the messages page and clicked "view" the message
